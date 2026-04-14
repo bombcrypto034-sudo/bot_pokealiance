@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
+
+# Local runtime config
+bot.local.json
+battle_baseline.png
+
+#imgs
+*.png
