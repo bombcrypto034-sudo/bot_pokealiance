@@ -26,6 +26,8 @@ class InputController:
     def press_game_key(self, key):
         key_map = {
             "f": config.KEY_F,
+            "i": config.KEY_I,
+            "o": config.KEY_O,
             "r": config.KEY_R,
             "x": config.KEY_X,
         }
